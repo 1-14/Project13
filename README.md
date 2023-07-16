@@ -110,4 +110,4 @@ empty multiset的ECMH是个全0串共有32字节。非空集的ECMH是64字节�
 
 【5】https://en.bitcoin.it/wiki/Secp256k1
 
-【6】课程ppt文件：20220606-eth-public
+【6】课程ppt文件：20230407-eth-public
